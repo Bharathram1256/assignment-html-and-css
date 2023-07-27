@@ -1,0 +1,28 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: lightblue;
+}
+
+.header{
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(43, 190, 60);
+    height: 70px;
+    position:sticky;
+    top: 0;
+}
+
+.footer{
+    border: 10px;
+    border-radius: 100%;
+    height: 150px;
+    width: 150px;
+    bottom:10%;
+    left: 85%;
+    position: fixed;
+    background-color: rgb(223, 72, 223);
+    opacity: 0.9;
+}
