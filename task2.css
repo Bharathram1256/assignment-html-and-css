@@ -35,8 +35,8 @@ main{
 
 .col1{
     height: 96%;
-    width: 30%;
-    margin: 1.2%;
+    width: 32%;
+    margin:0.5%;
     justify-content: left;
     background-color: rgb(191, 255, 0);
     border-radius: 3%;
@@ -44,8 +44,8 @@ main{
 
 .col2{
     height: 96%;
-    width: 30%;
-    margin: 1.2%;
+    width: 32%;
+    margin: 0.5%;
     justify-content: center;
     background-color: rgb(255, 251, 0);
     border-radius: 3%;
@@ -53,8 +53,8 @@ main{
 
 .col3{
     height: 96%;
-    width: 30%;
-    margin: 1.2%;
+    width: 32%;
+    margin: 0.5%;
     justify-content: right;
     background-color: rgb(162, 255, 0);
     border-radius: 3%;

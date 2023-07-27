@@ -16,6 +16,7 @@ Create an HTML file that includes an image and two paragraphs of text. Apply the
 Position the image to the top right corner of its parent container, with a margin of 10 pixels from the edges.
 Position the first paragraph to the bottom left corner of its parent container, with a margin of 15 pixels from the edges.
 Position the second paragraph centered horizontally and vertically within its parent container using absolute positioning.
+
 Task 4: Fixed Navigation Bar
 Create a fixed navigation bar that sticks to the top of the viewport when users scroll down the page. Ensure that the navigation links are evenly spaced and styled appropriately.
 
