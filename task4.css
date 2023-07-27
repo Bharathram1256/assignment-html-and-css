@@ -1,11 +1,11 @@
 body{
     background-color: aquamarine;
-    padding-top:100px;
+    padding-top:90px;
 }
 
 .header{
     display: flex;
-    height: 100px;
+    height: 80px;
     width: 100%;
     background-color: rgb(238, 0, 246);
     position: fixed;
@@ -15,9 +15,6 @@ body{
     justify-content: center;
     align-items: center;
     font-weight: bolder;
-    
-
-
 }
 
 
